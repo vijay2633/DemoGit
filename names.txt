@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Vijay
 Manohar
 nani
+=======
+vijay 
+manohar
+nani
+>>>>>>> d1c7250b970d8343c53efe9feb63cef75d679fe9
